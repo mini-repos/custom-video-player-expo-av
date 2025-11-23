@@ -1,0 +1,13 @@
+{
+  "name": "custom-video-player-expo-av",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mini-repos/custom-video-player-expo-av",
+  "author": "hamza <86945130+hmmmzaDev@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "expo-video": "^3.0.14",
+    "react": "^19.2.0",
+    "react-native": "^0.82.1"
+  }
+}
